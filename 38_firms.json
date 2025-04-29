@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14596453,
+    "legal_name": "Alan N SHERMAN",
+    "dba_name": "Green Sandpiper SAS",
+    "city": "Grenoble",
+    "state": "38",
+    "zip_code": 38000,
+    "ytd_returns": 6,
+    "prv1_returns": 0,
+    "growth_rate": 600.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14596453,
+    "legal_name": "Alan N SHERMAN",
+    "dba_name": "Green Sandpiper SAS",
+    "city": "Grenoble",
+    "state": "38",
+    "zip_code": 38000,
+    "ytd_returns": 6,
+    "prv1_returns": 0,
+    "growth_rate": 600.0,
+    "firm_size": "0-500"
+  }
+]

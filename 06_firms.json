@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 1944094,
+    "legal_name": "George Coryell Donnelly",
+    "dba_name": "George Donnelly CPA",
+    "city": "ANTIBES",
+    "state": "06",
+    "zip_code": 6600,
+    "ytd_returns": 526,
+    "prv1_returns": 473,
+    "growth_rate": 11.20507399577167,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 1944094,
+    "legal_name": "George Coryell Donnelly",
+    "dba_name": "George Donnelly CPA",
+    "city": "ANTIBES",
+    "state": "06",
+    "zip_code": 6600,
+    "ytd_returns": 526,
+    "prv1_returns": 473,
+    "growth_rate": 11.20507399577167,
+    "firm_size": "501-1000"
+  }
+]

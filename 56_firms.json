@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 2068094,
+    "legal_name": "LARRY D. HALLUM  C.P.A.",
+    "dba_name": "LARRY D. HALLUM  C.P.A.",
+    "city": "Ploemel",
+    "state": "56",
+    "zip_code": 56400,
+    "ytd_returns": 31,
+    "prv1_returns": 36,
+    "growth_rate": -13.88888888888889,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2068094,
+    "legal_name": "LARRY D. HALLUM  C.P.A.",
+    "dba_name": "LARRY D. HALLUM  C.P.A.",
+    "city": "Ploemel",
+    "state": "56",
+    "zip_code": 56400,
+    "ytd_returns": 31,
+    "prv1_returns": 36,
+    "growth_rate": -13.88888888888889,
+    "firm_size": "0-500"
+  }
+]

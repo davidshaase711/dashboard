@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14260992,
+    "legal_name": "Alpine Advisors  LLC",
+    "dba_name": "Alpine Advisors  LLC",
+    "city": "Seyssel",
+    "state": "74",
+    "zip_code": 74910,
+    "ytd_returns": 2,
+    "prv1_returns": 0,
+    "growth_rate": 200.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14260992,
+    "legal_name": "Alpine Advisors  LLC",
+    "dba_name": "Alpine Advisors  LLC",
+    "city": "Seyssel",
+    "state": "74",
+    "zip_code": 74910,
+    "ytd_returns": 2,
+    "prv1_returns": 0,
+    "growth_rate": 200.0,
+    "firm_size": "0-500"
+  }
+]

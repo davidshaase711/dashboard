@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 2544047,
+    "legal_name": "John Simon",
+    "dba_name": "John Simon Tax Services",
+    "city": "ATSUGISHI",
+    "state": "37",
+    "zip_code": 0,
+    "ytd_returns": 54,
+    "prv1_returns": 34,
+    "growth_rate": 58.82352941176471,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2544047,
+    "legal_name": "John Simon",
+    "dba_name": "John Simon Tax Services",
+    "city": "ATSUGISHI",
+    "state": "37",
+    "zip_code": 0,
+    "ytd_returns": 54,
+    "prv1_returns": 34,
+    "growth_rate": 58.82352941176471,
+    "firm_size": "0-500"
+  }
+]

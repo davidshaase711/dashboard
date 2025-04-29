@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14193874,
+    "legal_name": "Smith Michel",
+    "dba_name": "indivdual",
+    "city": "clermont",
+    "state": "CK",
+    "zip_code": 34714,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14193874,
+    "legal_name": "Smith Michel",
+    "dba_name": "indivdual",
+    "city": "clermont",
+    "state": "CK",
+    "zip_code": 34714,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  }
+]

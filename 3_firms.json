@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14116992,
+    "legal_name": "THOMAS W COLLORD",
+    "dba_name": "WHITFIELD ADAMS US INTERNATIONAL TAX",
+    "city": "ALKMAAR",
+    "state": "3",
+    "zip_code": 0,
+    "ytd_returns": 38,
+    "prv1_returns": 36,
+    "growth_rate": 5.555555555555555,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14116992,
+    "legal_name": "THOMAS W COLLORD",
+    "dba_name": "WHITFIELD ADAMS US INTERNATIONAL TAX",
+    "city": "ALKMAAR",
+    "state": "3",
+    "zip_code": 0,
+    "ytd_returns": 38,
+    "prv1_returns": 36,
+    "growth_rate": 5.555555555555555,
+    "firm_size": "0-500"
+  }
+]

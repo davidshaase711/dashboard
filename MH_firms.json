@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 2312767,
+    "legal_name": "NUUR O ALI",
+    "dba_name": "Nuur O Ali",
+    "city": "INDIAN ORCHARD",
+    "state": "MH",
+    "zip_code": 1151,
+    "ytd_returns": 53,
+    "prv1_returns": 33,
+    "growth_rate": 60.60606060606061,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13849153,
+    "legal_name": "OLUGBENGA ALUKO",
+    "dba_name": "BENKO TAXES SERVICES",
+    "city": "BALTIMORE",
+    "state": "MH",
+    "zip_code": 21206,
+    "ytd_returns": 0,
+    "prv1_returns": 6,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 2312767,
+    "legal_name": "NUUR O ALI",
+    "dba_name": "Nuur O Ali",
+    "city": "INDIAN ORCHARD",
+    "state": "MH",
+    "zip_code": 1151,
+    "ytd_returns": 53,
+    "prv1_returns": 33,
+    "growth_rate": 60.60606060606061,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 1713745,
+    "legal_name": "George Annan",
+    "dba_name": "TAXPROS OF AMERICA",
+    "city": "BALTIMORE",
+    "state": "MH",
+    "zip_code": 0,
+    "ytd_returns": 220,
+    "prv1_returns": 232,
+    "growth_rate": -5.172413793103448,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13849153,
+    "legal_name": "OLUGBENGA ALUKO",
+    "dba_name": "BENKO TAXES SERVICES",
+    "city": "BALTIMORE",
+    "state": "MH",
+    "zip_code": 21206,
+    "ytd_returns": 0,
+    "prv1_returns": 6,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 1713745,
+    "legal_name": "George Annan",
+    "dba_name": "TAXPROS OF AMERICA",
+    "city": "BALTIMORE",
+    "state": "MH",
+    "zip_code": 0,
+    "ytd_returns": 220,
+    "prv1_returns": 232,
+    "growth_rate": -5.172413793103448,
+    "firm_size": "0-500"
+  }
+]

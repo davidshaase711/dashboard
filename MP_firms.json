@@ -1,0 +1,122 @@
+[
+  {
+    "cust_id": 14723156,
+    "legal_name": "Alexis A Fallon",
+    "dba_name": "Fallon Law Group",
+    "city": "Saipan",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14180326,
+    "legal_name": "Katina Earthman",
+    "dba_name": "Simply Signed Notary & Tax Services",
+    "city": "Canal Winchester  OH 43110-935",
+    "state": "MP",
+    "zip_code": 43110,
+    "ytd_returns": 82,
+    "prv1_returns": 0,
+    "growth_rate": 8200.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13549238,
+    "legal_name": "KEIKO FUJIWARA",
+    "dba_name": "KEIKO FUJIWARA  CPA",
+    "city": "SAIPAN",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 64,
+    "prv1_returns": 73,
+    "growth_rate": -12.32876712328767,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2183842,
+    "legal_name": "BURGER & COMER PC",
+    "dba_name": "BURGER & COMER PC",
+    "city": "SAIPAN",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 72,
+    "prv1_returns": 52,
+    "growth_rate": 38.46153846153847,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13774702,
+    "legal_name": "RR & ASSOCIATES CORPORATION",
+    "dba_name": "RR & ASSOCIATES CORPORATION",
+    "city": "SAIAPN",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 10,
+    "prv1_returns": 10,
+    "growth_rate": 0.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14723156,
+    "legal_name": "Alexis A Fallon",
+    "dba_name": "Fallon Law Group",
+    "city": "Saipan",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 2183842,
+    "legal_name": "BURGER & COMER PC",
+    "dba_name": "BURGER & COMER PC",
+    "city": "SAIPAN",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 72,
+    "prv1_returns": 52,
+    "growth_rate": 38.46153846153847,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13774702,
+    "legal_name": "RR & ASSOCIATES CORPORATION",
+    "dba_name": "RR & ASSOCIATES CORPORATION",
+    "city": "SAIAPN",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 10,
+    "prv1_returns": 10,
+    "growth_rate": 0.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14180326,
+    "legal_name": "Katina Earthman",
+    "dba_name": "Simply Signed Notary & Tax Services",
+    "city": "Canal Winchester  OH 43110-935",
+    "state": "MP",
+    "zip_code": 43110,
+    "ytd_returns": 82,
+    "prv1_returns": 0,
+    "growth_rate": 8200.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13549238,
+    "legal_name": "KEIKO FUJIWARA",
+    "dba_name": "KEIKO FUJIWARA  CPA",
+    "city": "SAIPAN",
+    "state": "MP",
+    "zip_code": 96950,
+    "ytd_returns": 64,
+    "prv1_returns": 73,
+    "growth_rate": -12.32876712328767,
+    "firm_size": "0-500"
+  }
+]

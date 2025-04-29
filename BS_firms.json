@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 14025413,
+    "legal_name": "Menachem Fink",
+    "dba_name": "Menachem Fink",
+    "city": "Basel",
+    "state": "BS",
+    "zip_code": 4055,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14579903,
+    "legal_name": "US TAXPERTS AG",
+    "dba_name": "US TAXPERTS AG",
+    "city": "Basel",
+    "state": "BS",
+    "zip_code": 4052,
+    "ytd_returns": 344,
+    "prv1_returns": 0,
+    "growth_rate": 34400.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14026832,
+    "legal_name": "InvesTax GmbH",
+    "dba_name": "InvesTax GmbH",
+    "city": "Basel",
+    "state": "BS",
+    "zip_code": 4055,
+    "ytd_returns": 0,
+    "prv1_returns": 37,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14579903,
+    "legal_name": "US TAXPERTS AG",
+    "dba_name": "US TAXPERTS AG",
+    "city": "Basel",
+    "state": "BS",
+    "zip_code": 4052,
+    "ytd_returns": 344,
+    "prv1_returns": 0,
+    "growth_rate": 34400.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14026832,
+    "legal_name": "InvesTax GmbH",
+    "dba_name": "InvesTax GmbH",
+    "city": "Basel",
+    "state": "BS",
+    "zip_code": 4055,
+    "ytd_returns": 0,
+    "prv1_returns": 37,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14025413,
+    "legal_name": "Menachem Fink",
+    "dba_name": "Menachem Fink",
+    "city": "Basel",
+    "state": "BS",
+    "zip_code": 4055,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  }
+]

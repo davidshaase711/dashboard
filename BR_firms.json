@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 763505,
+    "legal_name": "SHORT C GEORGE",
+    "dba_name": "H&R BLOCK",
+    "city": "BAMBERG",
+    "state": "BR",
+    "zip_code": 96052,
+    "ytd_returns": 150,
+    "prv1_returns": 203,
+    "growth_rate": -26.108374384236456,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 763505,
+    "legal_name": "SHORT C GEORGE",
+    "dba_name": "H&R BLOCK",
+    "city": "BAMBERG",
+    "state": "BR",
+    "zip_code": 96052,
+    "ytd_returns": 150,
+    "prv1_returns": 203,
+    "growth_rate": -26.108374384236456,
+    "firm_size": "0-500"
+  }
+]

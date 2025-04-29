@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 226423,
+    "legal_name": "Donald B Spina",
+    "dba_name": "Unilife Services Ltd",
+    "city": "OKINAWA CITY",
+    "state": "47",
+    "zip_code": 0,
+    "ytd_returns": 566,
+    "prv1_returns": 601,
+    "growth_rate": -5.823627287853577,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 226423,
+    "legal_name": "Donald B Spina",
+    "dba_name": "Unilife Services Ltd",
+    "city": "OKINAWA CITY",
+    "state": "47",
+    "zip_code": 0,
+    "ytd_returns": 566,
+    "prv1_returns": 601,
+    "growth_rate": -5.823627287853577,
+    "firm_size": "501-1000"
+  }
+]

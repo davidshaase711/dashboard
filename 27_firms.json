@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 2512678,
+    "legal_name": "MASAAKI CHIDA",
+    "dba_name": "Chida International Tax & Accounting",
+    "city": "OSAKA-SHI",
+    "state": "27",
+    "zip_code": 0,
+    "ytd_returns": 158,
+    "prv1_returns": 125,
+    "growth_rate": 26.4,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 1997332,
+    "legal_name": "ROBERT J BLOEMEKE",
+    "dba_name": "Kyoto Tax Service",
+    "city": "OSAKA",
+    "state": "27",
+    "zip_code": 0,
+    "ytd_returns": 86,
+    "prv1_returns": 84,
+    "growth_rate": 2.380952380952381,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2512678,
+    "legal_name": "MASAAKI CHIDA",
+    "dba_name": "Chida International Tax & Accounting",
+    "city": "OSAKA-SHI",
+    "state": "27",
+    "zip_code": 0,
+    "ytd_returns": 158,
+    "prv1_returns": 125,
+    "growth_rate": 26.4,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 1997332,
+    "legal_name": "ROBERT J BLOEMEKE",
+    "dba_name": "Kyoto Tax Service",
+    "city": "OSAKA",
+    "state": "27",
+    "zip_code": 0,
+    "ytd_returns": 86,
+    "prv1_returns": 84,
+    "growth_rate": 2.380952380952381,
+    "firm_size": "0-500"
+  }
+]

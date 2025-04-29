@@ -1,0 +1,122 @@
+[
+  {
+    "cust_id": 14591360,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Analie Sarl",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 430,
+    "prv1_returns": 0,
+    "growth_rate": 43000.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13818165,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Citrine International Tax Limited Co",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 756,
+    "prv1_returns": 445,
+    "growth_rate": 69.88764044943821,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 14138663,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Lee Churchett",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 322,
+    "prv1_returns": 282,
+    "growth_rate": 14.184397163120568,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13826031,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Mount Moore Consulting Limited",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 128,
+    "prv1_returns": 121,
+    "growth_rate": 5.785123966942149,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13802233,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "SDG Tax Services LLC",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 128,
+    "prv1_returns": 280,
+    "growth_rate": -54.285714285714285,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14591360,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Analie Sarl",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 430,
+    "prv1_returns": 0,
+    "growth_rate": 43000.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13818165,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Citrine International Tax Limited Co",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 756,
+    "prv1_returns": 445,
+    "growth_rate": 69.88764044943821,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 14138663,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Lee Churchett",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 322,
+    "prv1_returns": 282,
+    "growth_rate": 14.184397163120568,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13826031,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "Mount Moore Consulting Limited",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 128,
+    "prv1_returns": 121,
+    "growth_rate": 5.785123966942149,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13802233,
+    "legal_name": "SDG TAX SOLUTIONS LLC",
+    "dba_name": "SDG Tax Services LLC",
+    "city": "Milton Keynes",
+    "state": "BU",
+    "zip_code": 0,
+    "ytd_returns": 128,
+    "prv1_returns": 280,
+    "growth_rate": -54.285714285714285,
+    "firm_size": "0-500"
+  }
+]

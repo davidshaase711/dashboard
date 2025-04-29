@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 2284663,
+    "legal_name": "JESSICA E. TREVINO",
+    "dba_name": "JESSICA  LANFIESTA",
+    "city": "grand prairie",
+    "state": "AA",
+    "zip_code": 75050,
+    "ytd_returns": 51,
+    "prv1_returns": 5,
+    "growth_rate": 920.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2284663,
+    "legal_name": "JESSICA E. TREVINO",
+    "dba_name": "JESSICA  LANFIESTA",
+    "city": "grand prairie",
+    "state": "AA",
+    "zip_code": 75050,
+    "ytd_returns": 51,
+    "prv1_returns": 5,
+    "growth_rate": 920.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13848792,
+    "legal_name": "Bosh General Service",
+    "dba_name": "Bosh General Service",
+    "city": "BOISE",
+    "state": "AA",
+    "zip_code": 83713,
+    "ytd_returns": 71,
+    "prv1_returns": 99,
+    "growth_rate": -28.28282828282828,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13848792,
+    "legal_name": "Bosh General Service",
+    "dba_name": "Bosh General Service",
+    "city": "BOISE",
+    "state": "AA",
+    "zip_code": 83713,
+    "ytd_returns": 71,
+    "prv1_returns": 99,
+    "growth_rate": -28.28282828282828,
+    "firm_size": "0-500"
+  }
+]

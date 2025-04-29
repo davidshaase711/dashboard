@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 13815231,
+    "legal_name": "Jenny B Prince",
+    "dba_name": "MonumentTax",
+    "city": "Hove",
+    "state": "E.",
+    "zip_code": 0,
+    "ytd_returns": 0,
+    "prv1_returns": 92,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 13815231,
+    "legal_name": "Jenny B Prince",
+    "dba_name": "MonumentTax",
+    "city": "Hove",
+    "state": "E.",
+    "zip_code": 0,
+    "ytd_returns": 0,
+    "prv1_returns": 92,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14145796,
+    "legal_name": "MonumentTax Ltd",
+    "dba_name": "MonumentTax",
+    "city": "Hove",
+    "state": "E.",
+    "zip_code": 0,
+    "ytd_returns": 796,
+    "prv1_returns": 650,
+    "growth_rate": 22.46153846153846,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 14145796,
+    "legal_name": "MonumentTax Ltd",
+    "dba_name": "MonumentTax",
+    "city": "Hove",
+    "state": "E.",
+    "zip_code": 0,
+    "ytd_returns": 796,
+    "prv1_returns": 650,
+    "growth_rate": 22.46153846153846,
+    "firm_size": "501-1000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 13781934,
+    "legal_name": "SAS usXpertise",
+    "dba_name": "SAS usXpertise",
+    "city": "Rancon",
+    "state": "87",
+    "zip_code": 87290,
+    "ytd_returns": 521,
+    "prv1_returns": 505,
+    "growth_rate": 3.1683168316831685,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 13781934,
+    "legal_name": "SAS usXpertise",
+    "dba_name": "SAS usXpertise",
+    "city": "Rancon",
+    "state": "87",
+    "zip_code": 87290,
+    "ytd_returns": 521,
+    "prv1_returns": 505,
+    "growth_rate": 3.1683168316831685,
+    "firm_size": "501-1000"
+  }
+]

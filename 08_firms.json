@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 13581443,
+    "legal_name": "Walter Paul Houston Jr. CPA",
+    "dba_name": "Walter Paul Houston Jr. CPA",
+    "city": "Tsukuba-shi",
+    "state": "08",
+    "zip_code": 0,
+    "ytd_returns": 88,
+    "prv1_returns": 72,
+    "growth_rate": 22.22222222222222,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13581443,
+    "legal_name": "Walter Paul Houston Jr. CPA",
+    "dba_name": "Walter Paul Houston Jr. CPA",
+    "city": "Tsukuba-shi",
+    "state": "08",
+    "zip_code": 0,
+    "ytd_returns": 88,
+    "prv1_returns": 72,
+    "growth_rate": 22.22222222222222,
+    "firm_size": "0-500"
+  }
+]

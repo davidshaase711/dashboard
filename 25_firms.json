@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14724155,
+    "legal_name": "YS Accounting LLC",
+    "dba_name": "Japan America Tax Solutions  Inc",
+    "city": "Otsu",
+    "state": "25",
+    "zip_code": 0,
+    "ytd_returns": 3,
+    "prv1_returns": 0,
+    "growth_rate": 300.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14724155,
+    "legal_name": "YS Accounting LLC",
+    "dba_name": "Japan America Tax Solutions  Inc",
+    "city": "Otsu",
+    "state": "25",
+    "zip_code": 0,
+    "ytd_returns": 3,
+    "prv1_returns": 0,
+    "growth_rate": 300.0,
+    "firm_size": "0-500"
+  }
+]

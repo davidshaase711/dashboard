@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 1839223,
+    "legal_name": "Richard Dunn",
+    "dba_name": "RICHARD J DUNN",
+    "city": "CASTLEKNOCK",
+    "state": "DU",
+    "zip_code": 0,
+    "ytd_returns": 1999,
+    "prv1_returns": 1635,
+    "growth_rate": 22.262996941896024,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 13668850,
+    "legal_name": "Stephen Casey",
+    "dba_name": "Stephen Casey CPA",
+    "city": "Dublin 6",
+    "state": "DU",
+    "zip_code": 0,
+    "ytd_returns": 192,
+    "prv1_returns": 120,
+    "growth_rate": 60.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 1839223,
+    "legal_name": "Richard Dunn",
+    "dba_name": "RICHARD J DUNN",
+    "city": "CASTLEKNOCK",
+    "state": "DU",
+    "zip_code": 0,
+    "ytd_returns": 1999,
+    "prv1_returns": 1635,
+    "growth_rate": 22.262996941896024,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 13668850,
+    "legal_name": "Stephen Casey",
+    "dba_name": "Stephen Casey CPA",
+    "city": "Dublin 6",
+    "state": "DU",
+    "zip_code": 0,
+    "ytd_returns": 192,
+    "prv1_returns": 120,
+    "growth_rate": 60.0,
+    "firm_size": "0-500"
+  }
+]

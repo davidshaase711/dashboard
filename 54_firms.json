@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 2171143,
+    "legal_name": "Olivier Wagner",
+    "dba_name": "Olivier Wagner",
+    "city": "LIXHEIM",
+    "state": "54",
+    "zip_code": 57635,
+    "ytd_returns": 1060,
+    "prv1_returns": 852,
+    "growth_rate": 24.413145539906104,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 2171143,
+    "legal_name": "Olivier Wagner",
+    "dba_name": "Olivier Wagner",
+    "city": "LIXHEIM",
+    "state": "54",
+    "zip_code": 57635,
+    "ytd_returns": 1060,
+    "prv1_returns": 852,
+    "growth_rate": 24.413145539906104,
+    "firm_size": "1001-5000"
+  }
+]

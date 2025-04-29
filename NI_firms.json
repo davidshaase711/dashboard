@@ -1,0 +1,98 @@
+[
+  {
+    "cust_id": 13857443,
+    "legal_name": "John York",
+    "dba_name": "John York",
+    "city": "Aurich",
+    "state": "NI",
+    "zip_code": 26603,
+    "ytd_returns": 14,
+    "prv1_returns": 5,
+    "growth_rate": 180.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2501154,
+    "legal_name": "Lisa Graefin von der Schulenburg",
+    "dba_name": "Lisa Graefin von der Schulenburg",
+    "city": "Osten",
+    "state": "NI",
+    "zip_code": 21756,
+    "ytd_returns": 10,
+    "prv1_returns": 9,
+    "growth_rate": 11.11111111111111,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2493905,
+    "legal_name": "Tracy Schrader",
+    "dba_name": "Tracy Schrader  E.A.",
+    "city": "HARDEGSEN",
+    "state": "NI",
+    "zip_code": 37181,
+    "ytd_returns": 87,
+    "prv1_returns": 86,
+    "growth_rate": 1.162790697674419,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14604513,
+    "legal_name": "Thomas H Voigt",
+    "dba_name": "Thomas H Voigt",
+    "city": "Stuhr",
+    "state": "NI",
+    "zip_code": 28816,
+    "ytd_returns": 6,
+    "prv1_returns": 0,
+    "growth_rate": 600.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14604513,
+    "legal_name": "Thomas H Voigt",
+    "dba_name": "Thomas H Voigt",
+    "city": "Stuhr",
+    "state": "NI",
+    "zip_code": 28816,
+    "ytd_returns": 6,
+    "prv1_returns": 0,
+    "growth_rate": 600.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13857443,
+    "legal_name": "John York",
+    "dba_name": "John York",
+    "city": "Aurich",
+    "state": "NI",
+    "zip_code": 26603,
+    "ytd_returns": 14,
+    "prv1_returns": 5,
+    "growth_rate": 180.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2501154,
+    "legal_name": "Lisa Graefin von der Schulenburg",
+    "dba_name": "Lisa Graefin von der Schulenburg",
+    "city": "Osten",
+    "state": "NI",
+    "zip_code": 21756,
+    "ytd_returns": 10,
+    "prv1_returns": 9,
+    "growth_rate": 11.11111111111111,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2493905,
+    "legal_name": "Tracy Schrader",
+    "dba_name": "Tracy Schrader  E.A.",
+    "city": "HARDEGSEN",
+    "state": "NI",
+    "zip_code": 37181,
+    "ytd_returns": 87,
+    "prv1_returns": 86,
+    "growth_rate": 1.162790697674419,
+    "firm_size": "0-500"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 2120917,
+    "legal_name": "GRANT THORNTON LLP",
+    "dba_name": "GRANT THORNTON LLP",
+    "city": "MONCTON",
+    "state": "NB",
+    "zip_code": 0,
+    "ytd_returns": 498,
+    "prv1_returns": 726,
+    "growth_rate": -31.40495867768595,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2120917,
+    "legal_name": "GRANT THORNTON LLP",
+    "dba_name": "GRANT THORNTON LLP",
+    "city": "MONCTON",
+    "state": "NB",
+    "zip_code": 0,
+    "ytd_returns": 498,
+    "prv1_returns": 726,
+    "growth_rate": -31.40495867768595,
+    "firm_size": "0-500"
+  }
+]

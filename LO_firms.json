@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 13979028,
+    "legal_name": "Leah M Guevara",
+    "dba_name": "Alderstone USA",
+    "city": "Edinburgh",
+    "state": "LO",
+    "zip_code": 0,
+    "ytd_returns": 45,
+    "prv1_returns": 81,
+    "growth_rate": -44.44444444444444,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13979028,
+    "legal_name": "Leah M Guevara",
+    "dba_name": "Alderstone USA",
+    "city": "Edinburgh",
+    "state": "LO",
+    "zip_code": 0,
+    "ytd_returns": 45,
+    "prv1_returns": 81,
+    "growth_rate": -44.44444444444444,
+    "firm_size": "0-500"
+  }
+]

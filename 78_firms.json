@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 2297663,
+    "legal_name": "BPS TAX SERVICES SARL",
+    "dba_name": "BPS TAX SERVICES SARL",
+    "city": "78100 ST GERMAIN EN LAYE",
+    "state": "78",
+    "zip_code": 78100,
+    "ytd_returns": 257,
+    "prv1_returns": 254,
+    "growth_rate": 1.1811023622047243,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14182002,
+    "legal_name": "Emily C Lix",
+    "dba_name": "EML Expat Tax",
+    "city": "Versailles",
+    "state": "78",
+    "zip_code": 78000,
+    "ytd_returns": 18,
+    "prv1_returns": 0,
+    "growth_rate": 1800.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2297663,
+    "legal_name": "BPS TAX SERVICES SARL",
+    "dba_name": "BPS TAX SERVICES SARL",
+    "city": "78100 ST GERMAIN EN LAYE",
+    "state": "78",
+    "zip_code": 78100,
+    "ytd_returns": 257,
+    "prv1_returns": 254,
+    "growth_rate": 1.1811023622047243,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2306179,
+    "legal_name": "DKN FINANCIAL SARL",
+    "dba_name": "DKN FINANCIAL SARL",
+    "city": "LE VESINET",
+    "state": "78",
+    "zip_code": 78110,
+    "ytd_returns": 33,
+    "prv1_returns": 62,
+    "growth_rate": -46.774193548387096,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2306179,
+    "legal_name": "DKN FINANCIAL SARL",
+    "dba_name": "DKN FINANCIAL SARL",
+    "city": "LE VESINET",
+    "state": "78",
+    "zip_code": 78110,
+    "ytd_returns": 33,
+    "prv1_returns": 62,
+    "growth_rate": -46.774193548387096,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14182002,
+    "legal_name": "Emily C Lix",
+    "dba_name": "EML Expat Tax",
+    "city": "Versailles",
+    "state": "78",
+    "zip_code": 78000,
+    "ytd_returns": 18,
+    "prv1_returns": 0,
+    "growth_rate": 1800.0,
+    "firm_size": "0-500"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 14465036,
+    "legal_name": "H&R BLOCK CANADA",
+    "dba_name": "MacKay Holdings Ltd",
+    "city": "Charlottetown",
+    "state": "PE",
+    "zip_code": 0,
+    "ytd_returns": 40,
+    "prv1_returns": 0,
+    "growth_rate": 4000.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2409290,
+    "legal_name": "JENDRICK HOLDINGS LTD",
+    "dba_name": "H & R BLOCK",
+    "city": "SUMMERSIDE",
+    "state": "PE",
+    "zip_code": 0,
+    "ytd_returns": 165,
+    "prv1_returns": 177,
+    "growth_rate": -6.779661016949152,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14465036,
+    "legal_name": "H&R BLOCK CANADA",
+    "dba_name": "MacKay Holdings Ltd",
+    "city": "Charlottetown",
+    "state": "PE",
+    "zip_code": 0,
+    "ytd_returns": 40,
+    "prv1_returns": 0,
+    "growth_rate": 4000.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2409290,
+    "legal_name": "JENDRICK HOLDINGS LTD",
+    "dba_name": "H & R BLOCK",
+    "city": "SUMMERSIDE",
+    "state": "PE",
+    "zip_code": 0,
+    "ytd_returns": 165,
+    "prv1_returns": 177,
+    "growth_rate": -6.779661016949152,
+    "firm_size": "0-500"
+  }
+]

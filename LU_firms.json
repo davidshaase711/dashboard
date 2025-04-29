@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 13676085,
+    "legal_name": "Eris Advisory GmbH",
+    "dba_name": "Eris Advisory GmbH",
+    "city": "Meierskappel",
+    "state": "LU",
+    "zip_code": 6344,
+    "ytd_returns": 138,
+    "prv1_returns": 159,
+    "growth_rate": -13.20754716981132,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13676085,
+    "legal_name": "Eris Advisory GmbH",
+    "dba_name": "Eris Advisory GmbH",
+    "city": "Meierskappel",
+    "state": "LU",
+    "zip_code": 6344,
+    "ytd_returns": 138,
+    "prv1_returns": 159,
+    "growth_rate": -13.20754716981132,
+    "firm_size": "0-500"
+  }
+]

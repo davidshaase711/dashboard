@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 13972658,
+    "legal_name": "BNC Tax & Accounting BV",
+    "dba_name": "BNC Tax & Accounting BV",
+    "city": "Zeist",
+    "state": "03",
+    "zip_code": 0,
+    "ytd_returns": 4,
+    "prv1_returns": 0,
+    "growth_rate": 400.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14588527,
+    "legal_name": "Stars & Tulips Accounting BV",
+    "dba_name": "Stars & Tulips Accounting BV",
+    "city": "Amsterdam",
+    "state": "03",
+    "zip_code": 0,
+    "ytd_returns": 3,
+    "prv1_returns": 0,
+    "growth_rate": 300.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13568362,
+    "legal_name": "Organize! NL VOF",
+    "dba_name": "US Tax Specialists",
+    "city": "Amsterdam",
+    "state": "03",
+    "zip_code": 0,
+    "ytd_returns": 322,
+    "prv1_returns": 323,
+    "growth_rate": -0.3095975232198142,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13972658,
+    "legal_name": "BNC Tax & Accounting BV",
+    "dba_name": "BNC Tax & Accounting BV",
+    "city": "Zeist",
+    "state": "03",
+    "zip_code": 0,
+    "ytd_returns": 4,
+    "prv1_returns": 0,
+    "growth_rate": 400.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14588527,
+    "legal_name": "Stars & Tulips Accounting BV",
+    "dba_name": "Stars & Tulips Accounting BV",
+    "city": "Amsterdam",
+    "state": "03",
+    "zip_code": 0,
+    "ytd_returns": 3,
+    "prv1_returns": 0,
+    "growth_rate": 300.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13568362,
+    "legal_name": "Organize! NL VOF",
+    "dba_name": "US Tax Specialists",
+    "city": "Amsterdam",
+    "state": "03",
+    "zip_code": 0,
+    "ytd_returns": 322,
+    "prv1_returns": 323,
+    "growth_rate": -0.3095975232198142,
+    "firm_size": "0-500"
+  }
+]

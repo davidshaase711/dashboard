@@ -1,0 +1,98 @@
+[
+  {
+    "cust_id": 14153530,
+    "legal_name": "Annamaria I Thurkow",
+    "dba_name": "U.S. tax Services",
+    "city": "Berlin",
+    "state": "BE",
+    "zip_code": 10557,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 2327783,
+    "legal_name": "Stephen Stambaugh-Walter",
+    "dba_name": "US Expat Tax Help UG haftungsbeschraenkt",
+    "city": "BERLIN",
+    "state": "BE",
+    "zip_code": 14163,
+    "ytd_returns": 523,
+    "prv1_returns": 550,
+    "growth_rate": -4.909090909090909,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 812692,
+    "legal_name": "MONIQUE LUEGGER",
+    "dba_name": "AMERICANS INCOME TAX SERVICE",
+    "city": "BERLIN",
+    "state": "BE",
+    "zip_code": 10711,
+    "ytd_returns": 681,
+    "prv1_returns": 740,
+    "growth_rate": -7.972972972972974,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 812692,
+    "legal_name": "MONIQUE LUEGGER",
+    "dba_name": "AMERICANS INCOME TAX SERVICE",
+    "city": "BERLIN",
+    "state": "BE",
+    "zip_code": 10711,
+    "ytd_returns": 681,
+    "prv1_returns": 740,
+    "growth_rate": -7.972972972972974,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 2419190,
+    "legal_name": "Amy Valenzuela",
+    "dba_name": "Amy Valenzuela CPA",
+    "city": "BERLIN",
+    "state": "BE",
+    "zip_code": 10961,
+    "ytd_returns": 88,
+    "prv1_returns": 85,
+    "growth_rate": 3.5294117647058822,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14153530,
+    "legal_name": "Annamaria I Thurkow",
+    "dba_name": "U.S. tax Services",
+    "city": "Berlin",
+    "state": "BE",
+    "zip_code": 10557,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 2327783,
+    "legal_name": "Stephen Stambaugh-Walter",
+    "dba_name": "US Expat Tax Help UG haftungsbeschraenkt",
+    "city": "BERLIN",
+    "state": "BE",
+    "zip_code": 14163,
+    "ytd_returns": 523,
+    "prv1_returns": 550,
+    "growth_rate": -4.909090909090909,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 2419190,
+    "legal_name": "Amy Valenzuela",
+    "dba_name": "Amy Valenzuela CPA",
+    "city": "BERLIN",
+    "state": "BE",
+    "zip_code": 10961,
+    "ytd_returns": 88,
+    "prv1_returns": 85,
+    "growth_rate": 3.5294117647058822,
+    "firm_size": "0-500"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 2385292,
+    "legal_name": "CHRISTINE DAHL LLC",
+    "dba_name": "Christine Dahl Financial Services",
+    "city": "THE HAGUE",
+    "state": "05",
+    "zip_code": 0,
+    "ytd_returns": 501,
+    "prv1_returns": 479,
+    "growth_rate": 4.592901878914405,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 2385292,
+    "legal_name": "CHRISTINE DAHL LLC",
+    "dba_name": "Christine Dahl Financial Services",
+    "city": "THE HAGUE",
+    "state": "05",
+    "zip_code": 0,
+    "ytd_returns": 501,
+    "prv1_returns": 479,
+    "growth_rate": 4.592901878914405,
+    "firm_size": "501-1000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14690333,
+    "legal_name": "Andrea B Lengel",
+    "dba_name": "AnythingExpat LLC",
+    "city": "Bonn",
+    "state": "NW",
+    "zip_code": 53229,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14690333,
+    "legal_name": "Andrea B Lengel",
+    "dba_name": "AnythingExpat LLC",
+    "city": "Bonn",
+    "state": "NW",
+    "zip_code": 53229,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  }
+]

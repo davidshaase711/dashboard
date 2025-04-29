@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 14367821,
+    "legal_name": "Bodine Perry JAX LLc",
+    "dba_name": "Douglas G Harris  CPA",
+    "city": "St. John's",
+    "state": "NF",
+    "zip_code": 0,
+    "ytd_returns": 110,
+    "prv1_returns": 0,
+    "growth_rate": 11000.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14367821,
+    "legal_name": "Bodine Perry JAX LLc",
+    "dba_name": "Douglas G Harris  CPA",
+    "city": "St. John's",
+    "state": "NF",
+    "zip_code": 0,
+    "ytd_returns": 110,
+    "prv1_returns": 0,
+    "growth_rate": 11000.0,
+    "firm_size": "0-500"
+  }
+]

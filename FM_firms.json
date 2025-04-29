@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 13885607,
+    "legal_name": "Albion Tax Service LLC",
+    "dba_name": "Jackson Hewitt Tax Service",
+    "city": "SANDY",
+    "state": "FM",
+    "zip_code": 84090,
+    "ytd_returns": 228,
+    "prv1_returns": 195,
+    "growth_rate": 16.923076923076923,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13885608,
+    "legal_name": "Albion Tax Service LLC",
+    "dba_name": "Jackson Hewitt Tax Service",
+    "city": "SANDY",
+    "state": "FM",
+    "zip_code": 84090,
+    "ytd_returns": 500,
+    "prv1_returns": 510,
+    "growth_rate": -1.96078431372549,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13885607,
+    "legal_name": "Albion Tax Service LLC",
+    "dba_name": "Jackson Hewitt Tax Service",
+    "city": "SANDY",
+    "state": "FM",
+    "zip_code": 84090,
+    "ytd_returns": 228,
+    "prv1_returns": 195,
+    "growth_rate": 16.923076923076923,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13885608,
+    "legal_name": "Albion Tax Service LLC",
+    "dba_name": "Jackson Hewitt Tax Service",
+    "city": "SANDY",
+    "state": "FM",
+    "zip_code": 84090,
+    "ytd_returns": 500,
+    "prv1_returns": 510,
+    "growth_rate": -1.96078431372549,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14157083,
+    "legal_name": "ROBERT M BERNSTEIN",
+    "dba_name": "robert m bernstein cpa",
+    "city": "WACCABUC",
+    "state": "FM",
+    "zip_code": 10597,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 14157083,
+    "legal_name": "ROBERT M BERNSTEIN",
+    "dba_name": "robert m bernstein cpa",
+    "city": "WACCABUC",
+    "state": "FM",
+    "zip_code": 10597,
+    "ytd_returns": 0,
+    "prv1_returns": 0,
+    "growth_rate": 0.0,
+    "firm_size": NaN
+  }
+]

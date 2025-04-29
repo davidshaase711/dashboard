@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 13923831,
+    "legal_name": "Daisy Buchanan",
+    "dba_name": "Daisy Buchanan",
+    "city": "Dunfanaghy",
+    "state": "DN",
+    "zip_code": 0,
+    "ytd_returns": 10,
+    "prv1_returns": 5,
+    "growth_rate": 100.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 13923831,
+    "legal_name": "Daisy Buchanan",
+    "dba_name": "Daisy Buchanan",
+    "city": "Dunfanaghy",
+    "state": "DN",
+    "zip_code": 0,
+    "ytd_returns": 10,
+    "prv1_returns": 5,
+    "growth_rate": 100.0,
+    "firm_size": "0-500"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 14160904,
+    "legal_name": "EXPAT US TAX LLC",
+    "dba_name": "Expat US Tax LLC",
+    "city": "York",
+    "state": "N",
+    "zip_code": 0,
+    "ytd_returns": 1099,
+    "prv1_returns": 187,
+    "growth_rate": 487.7005347593583,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 14160905,
+    "legal_name": "EXPAT TAX ONLINE LLC",
+    "dba_name": "EXPAT TAX ONLINE LLC",
+    "city": "York",
+    "state": "N",
+    "zip_code": 0,
+    "ytd_returns": 4333,
+    "prv1_returns": 967,
+    "growth_rate": 348.08686659772496,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 14160904,
+    "legal_name": "EXPAT US TAX LLC",
+    "dba_name": "Expat US Tax LLC",
+    "city": "York",
+    "state": "N",
+    "zip_code": 0,
+    "ytd_returns": 1099,
+    "prv1_returns": 187,
+    "growth_rate": 487.7005347593583,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 14160905,
+    "legal_name": "EXPAT TAX ONLINE LLC",
+    "dba_name": "EXPAT TAX ONLINE LLC",
+    "city": "York",
+    "state": "N",
+    "zip_code": 0,
+    "ytd_returns": 4333,
+    "prv1_returns": 967,
+    "growth_rate": 348.08686659772496,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 254532,
+    "legal_name": "JON A RICHEY",
+    "dba_name": "JON A RICHEY CPA",
+    "city": "HARROGATE",
+    "state": "N",
+    "zip_code": 0,
+    "ytd_returns": 35,
+    "prv1_returns": 37,
+    "growth_rate": -5.405405405405405,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 254532,
+    "legal_name": "JON A RICHEY",
+    "dba_name": "JON A RICHEY CPA",
+    "city": "HARROGATE",
+    "state": "N",
+    "zip_code": 0,
+    "ytd_returns": 35,
+    "prv1_returns": 37,
+    "growth_rate": -5.405405405405405,
+    "firm_size": "0-500"
+  }
+]

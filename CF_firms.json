@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 13649588,
+    "legal_name": "EY GDS (CS) ARGENTINA S.R.L.",
+    "dba_name": "EY GDS (CS) ARGENTINA S.R.L.",
+    "city": "BUENOS AIRES",
+    "state": "CF",
+    "zip_code": 0,
+    "ytd_returns": 0,
+    "prv1_returns": 169,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 13649588,
+    "legal_name": "EY GDS (CS) ARGENTINA S.R.L.",
+    "dba_name": "EY GDS (CS) ARGENTINA S.R.L.",
+    "city": "BUENOS AIRES",
+    "state": "CF",
+    "zip_code": 0,
+    "ytd_returns": 0,
+    "prv1_returns": 169,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  }
+]

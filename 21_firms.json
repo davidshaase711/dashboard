@@ -1,0 +1,26 @@
+[
+  {
+    "cust_id": 2356114,
+    "legal_name": "Michael W Stanczak",
+    "dba_name": "Michael William Stanczak",
+    "city": "OGAKI-SHI",
+    "state": "21",
+    "zip_code": 0,
+    "ytd_returns": 198,
+    "prv1_returns": 168,
+    "growth_rate": 17.857142857142858,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2356114,
+    "legal_name": "Michael W Stanczak",
+    "dba_name": "Michael William Stanczak",
+    "city": "OGAKI-SHI",
+    "state": "21",
+    "zip_code": 0,
+    "ytd_returns": 198,
+    "prv1_returns": 168,
+    "growth_rate": 17.857142857142858,
+    "firm_size": "0-500"
+  }
+]

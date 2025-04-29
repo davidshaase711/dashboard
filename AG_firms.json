@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 2023266,
+    "legal_name": "Rebecca M Pavlu",
+    "dba_name": "AIT Services",
+    "city": "RHEINFELDEN",
+    "state": "AG",
+    "zip_code": 4310,
+    "ytd_returns": 1483,
+    "prv1_returns": 1524,
+    "growth_rate": -2.690288713910761,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 14617141,
+    "legal_name": "Hatalla Tax",
+    "dba_name": "Hatalla Tax",
+    "city": "Rheinfelden",
+    "state": "AG",
+    "zip_code": 4310,
+    "ytd_returns": 178,
+    "prv1_returns": 0,
+    "growth_rate": 17800.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14617141,
+    "legal_name": "Hatalla Tax",
+    "dba_name": "Hatalla Tax",
+    "city": "Rheinfelden",
+    "state": "AG",
+    "zip_code": 4310,
+    "ytd_returns": 178,
+    "prv1_returns": 0,
+    "growth_rate": 17800.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2535052,
+    "legal_name": "AIE TAX SERVICES LLC",
+    "dba_name": "AIE TAX SERVICES LLC",
+    "city": "RHEINFELDEN",
+    "state": "AG",
+    "zip_code": 4310,
+    "ytd_returns": 0,
+    "prv1_returns": 12,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 2535052,
+    "legal_name": "AIE TAX SERVICES LLC",
+    "dba_name": "AIE TAX SERVICES LLC",
+    "city": "RHEINFELDEN",
+    "state": "AG",
+    "zip_code": 4310,
+    "ytd_returns": 0,
+    "prv1_returns": 12,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 2023266,
+    "legal_name": "Rebecca M Pavlu",
+    "dba_name": "AIT Services",
+    "city": "RHEINFELDEN",
+    "state": "AG",
+    "zip_code": 4310,
+    "ytd_returns": 1483,
+    "prv1_returns": 1524,
+    "growth_rate": -2.690288713910761,
+    "firm_size": "1001-5000"
+  }
+]

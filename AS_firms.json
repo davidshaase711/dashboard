@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 1530061,
+    "legal_name": "NORMAN L BURNETTE  JR.  P. A.",
+    "dba_name": "Norman L. Burnette  CPA",
+    "city": "LITTLE ROCK",
+    "state": "AS",
+    "zip_code": 72215,
+    "ytd_returns": 137,
+    "prv1_returns": 137,
+    "growth_rate": 0.0,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2174174,
+    "legal_name": "KING ACCOUNTANCY CORPORATION",
+    "dba_name": "KING ACCOUNTANCY CORPORATION",
+    "city": "PAGO PAGO",
+    "state": "AS",
+    "zip_code": 96799,
+    "ytd_returns": 13,
+    "prv1_returns": 18,
+    "growth_rate": -27.77777777777778,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 2174174,
+    "legal_name": "KING ACCOUNTANCY CORPORATION",
+    "dba_name": "KING ACCOUNTANCY CORPORATION",
+    "city": "PAGO PAGO",
+    "state": "AS",
+    "zip_code": 96799,
+    "ytd_returns": 13,
+    "prv1_returns": 18,
+    "growth_rate": -27.77777777777778,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 1530061,
+    "legal_name": "NORMAN L BURNETTE  JR.  P. A.",
+    "dba_name": "Norman L. Burnette  CPA",
+    "city": "LITTLE ROCK",
+    "state": "AS",
+    "zip_code": 72215,
+    "ytd_returns": 137,
+    "prv1_returns": 137,
+    "growth_rate": 0.0,
+    "firm_size": "0-500"
+  }
+]

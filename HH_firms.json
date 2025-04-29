@@ -1,0 +1,74 @@
+[
+  {
+    "cust_id": 13581123,
+    "legal_name": "ALEX GLAZUNOV",
+    "dba_name": "ALEX GLAZUNOV  EA",
+    "city": "HAMBURG",
+    "state": "HH",
+    "zip_code": 22303,
+    "ytd_returns": 175,
+    "prv1_returns": 174,
+    "growth_rate": 0.5747126436781609,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 1612454,
+    "legal_name": "DAVID OPPERMAN",
+    "dba_name": "DAVID OPPERMAN CPA",
+    "city": "HAMBURG",
+    "state": "HH",
+    "zip_code": 22459,
+    "ytd_returns": 1043,
+    "prv1_returns": 1059,
+    "growth_rate": -1.5108593012275733,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 1472263,
+    "legal_name": "CGI INTERNATIONAL LLC",
+    "dba_name": "CGI INTERNATIONAL LLC",
+    "city": "STUTTGART",
+    "state": "HH",
+    "zip_code": 70569,
+    "ytd_returns": 0,
+    "prv1_returns": 2,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 1612454,
+    "legal_name": "DAVID OPPERMAN",
+    "dba_name": "DAVID OPPERMAN CPA",
+    "city": "HAMBURG",
+    "state": "HH",
+    "zip_code": 22459,
+    "ytd_returns": 1043,
+    "prv1_returns": 1059,
+    "growth_rate": -1.5108593012275733,
+    "firm_size": "1001-5000"
+  },
+  {
+    "cust_id": 1472263,
+    "legal_name": "CGI INTERNATIONAL LLC",
+    "dba_name": "CGI INTERNATIONAL LLC",
+    "city": "STUTTGART",
+    "state": "HH",
+    "zip_code": 70569,
+    "ytd_returns": 0,
+    "prv1_returns": 2,
+    "growth_rate": -100.0,
+    "firm_size": NaN
+  },
+  {
+    "cust_id": 13581123,
+    "legal_name": "ALEX GLAZUNOV",
+    "dba_name": "ALEX GLAZUNOV  EA",
+    "city": "HAMBURG",
+    "state": "HH",
+    "zip_code": 22303,
+    "ytd_returns": 175,
+    "prv1_returns": 174,
+    "growth_rate": 0.5747126436781609,
+    "firm_size": "0-500"
+  }
+]

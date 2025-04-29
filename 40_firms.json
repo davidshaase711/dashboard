@@ -1,0 +1,50 @@
+[
+  {
+    "cust_id": 14196682,
+    "legal_name": "rhet huston",
+    "dba_name": "HUSTON TAX",
+    "city": "Seignosse",
+    "state": "40",
+    "zip_code": 40510,
+    "ytd_returns": 605,
+    "prv1_returns": 147,
+    "growth_rate": 311.5646258503401,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 2453453,
+    "legal_name": "rhet huston",
+    "dba_name": "rhet huston",
+    "city": "Seignosse",
+    "state": "40",
+    "zip_code": 40510,
+    "ytd_returns": 455,
+    "prv1_returns": 793,
+    "growth_rate": -42.62295081967213,
+    "firm_size": "0-500"
+  },
+  {
+    "cust_id": 14196682,
+    "legal_name": "rhet huston",
+    "dba_name": "HUSTON TAX",
+    "city": "Seignosse",
+    "state": "40",
+    "zip_code": 40510,
+    "ytd_returns": 605,
+    "prv1_returns": 147,
+    "growth_rate": 311.5646258503401,
+    "firm_size": "501-1000"
+  },
+  {
+    "cust_id": 2453453,
+    "legal_name": "rhet huston",
+    "dba_name": "rhet huston",
+    "city": "Seignosse",
+    "state": "40",
+    "zip_code": 40510,
+    "ytd_returns": 455,
+    "prv1_returns": 793,
+    "growth_rate": -42.62295081967213,
+    "firm_size": "0-500"
+  }
+]
